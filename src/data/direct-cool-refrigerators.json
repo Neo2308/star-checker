@@ -1,0 +1,25 @@
+{
+  "title": "Direct Cool Refrigerators",
+  "years": [
+    {
+      "year": "2016",
+      "toYear": "2020-2022",
+      "conversion": "rating > 3? rating-3:0"
+    },
+    {
+      "year": "2017-2019",
+      "toYear": "2020-2022",
+      "conversion": "rating > 1? rating-1:0"
+    },
+    {
+      "year": "2020-2022",
+      "toYear": "2020-2022",
+      "conversion": "rating"
+    },
+    {
+      "year": "2023-2024",
+      "toYear": "2023-2024",
+      "conversion": "rating"
+    }
+  ]
+}

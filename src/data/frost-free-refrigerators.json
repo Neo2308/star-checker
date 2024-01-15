@@ -1,0 +1,35 @@
+{
+  "title": "Frost Free Refrigerators",
+  "years": [
+    {
+      "year": "2009-2011",
+      "toYear": "2020-2022",
+      "conversion": "rating > 5? rating-5:0"
+    },
+    {
+      "year": "2012-2013",
+      "toYear": "2020-2022",
+      "conversion": "rating > 4? rating-4:0"
+    },
+    {
+      "year": "2014-2015",
+      "toYear": "2020-2022",
+      "conversion": "rating > 2? rating-2:0"
+    },
+    {
+      "year": "2016-2019",
+      "toYear": "2020-2022",
+      "conversion": "rating > 1? rating-1:0"
+    },
+    {
+      "year": "2020-2022",
+      "toYear": "2020-2022",
+      "conversion": "rating"
+    },
+    {
+      "year": "2023-2024",
+      "toYear": "2023-2024",
+      "conversion": "rating"
+    }
+  ]
+}
