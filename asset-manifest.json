@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/star-checker/static/css/main.f855e6bc.css",
-    "main.js": "/star-checker/static/js/main.78501f3a.js",
+    "main.js": "/star-checker/static/js/main.3f43cc25.js",
     "static/js/787.a0c04713.chunk.js": "/star-checker/static/js/787.a0c04713.chunk.js",
     "index.html": "/star-checker/index.html",
     "main.f855e6bc.css.map": "/star-checker/static/css/main.f855e6bc.css.map",
-    "main.78501f3a.js.map": "/star-checker/static/js/main.78501f3a.js.map",
+    "main.3f43cc25.js.map": "/star-checker/static/js/main.3f43cc25.js.map",
     "787.a0c04713.chunk.js.map": "/star-checker/static/js/787.a0c04713.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.78501f3a.js"
+    "static/js/main.3f43cc25.js"
   ]
 }
